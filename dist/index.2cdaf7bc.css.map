@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/style.css"],"sourcesContent":["body, #app {\n  background-image: radial-gradient(circle farthest-corner at 0% 0%, #181626, #3c356c 45%, #d0bae9 75%, #d1ff96);\n  margin: 0;\n  height: 100vh;\n  font-family: 'DM Sans', sans-serif;\n}\n"],"names":[],"version":3,"file":"index.2cdaf7bc.css.map","sourceRoot":"/__parcel_source_root/"}

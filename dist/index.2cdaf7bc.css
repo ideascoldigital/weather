@@ -1,0 +1,8 @@
+body, #app {
+  height: 100vh;
+  background-image: radial-gradient(circle at 0 0, #181626, #3c356c 45%, #d0bae9 75%, #d1ff96);
+  margin: 0;
+  font-family: DM Sans, sans-serif;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
